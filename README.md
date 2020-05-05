@@ -1,0 +1,2 @@
+# Widget-based-Tic-Tac-Toe-game
+The project consists of developing and implementing a computer program that plays TIC TAC TOE against another player. This developed system will reduce the manual work for playing a game you don’t need to carry a pen or a pencil and a few sheets of papers in your pocket all the time. The system is able to support hundreds or thousands of TIC TAC TOE game without any interruption.
